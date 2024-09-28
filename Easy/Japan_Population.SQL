@@ -1,0 +1,7 @@
+# Problem
+
+Japan Population
+
+# Solution
+
+SELECT SUM(POPULATION) FROM CITY WHERE COUNTRYCODE="JPN"

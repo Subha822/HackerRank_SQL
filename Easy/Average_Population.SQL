@@ -1,0 +1,7 @@
+# Problem
+
+Average Population
+
+# Solution
+
+SELECT ROUND(SUM(POPULATION)/COUNT(POPULATION)) FROM CITY
